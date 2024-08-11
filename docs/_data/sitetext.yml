@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         alt:
       - title: "JPEG-Pleno"
         #year: "March 2011"
-        desc: "The group is an initiative by the JPEG committee, focusing on the standardization and advancement of new imaging technologies that go beyond traditional 2D images. This group is dedicated to developing innovative frameworks that include not only images but also additional modalities such as light fields, point clouds, and holography."
+        desc: "The group is an initiative by the JPEG committee, focusing on the standardization and advancement of new imaging technologies that go beyond traditional 2D images. This group is dedicated to developing innovative frameworks that include not only images but also additional modalities such as light fields, point clouds, and holography. Visit the [JPEG Pleno website](https://jpeg.org/jpegpleno/) for more information."
         image: assets/img/jpegpleno-logo.svg
         alt:
       #- title: "Jekyll Theme is created"
